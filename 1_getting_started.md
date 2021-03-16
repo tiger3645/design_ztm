@@ -136,3 +136,28 @@ Do create more user flows! Breaking long user flows down into more simple flows 
 Don´t miss details! Explain the details the user needs to take to complete a task and the actions.
 
 Do add the right amount of detail! Everyone should be able to read and understand what the flow does. Outline each step and flow.
+
+## Sitemaps
+
+Sitemaps are hierarchical diagrams of a website or an application that shows how pages are prioritized. They help provide structure to our products.
+
+They are used at the beggining of the design process, as they provide a bird's eye view of the whole thing. It results in the creation of navigation hierarchies and categorizations of your product. You get a good understanding of your navigation. You can calculate the amount of content you need and it gives you a good understanding of your scope.
+
+## Wireframes
+
+A wireframe is a low fidelity layout that serves three simple purposes:
+
+1. It presents the information that will be displayed on the page in a little more detail than our sketches and our user flows.
+2. It gives an outline of structure and layout of the page, and it conveys the overall direction and description of your user interface.
+3. It's basically, as you can see here, it's just like a blueprint of a building.
+
+They really help us understand how users will navigate our product, and they are a great way to learn. They are complex enough to inform everyone but simple enough to not get bogged down by too much detail.
+
+Basically, they are a way to show others our ideas and get quick feedback without the hassle of having to change a high detail design.
+
+### How To Create A Wireframe
+
+Keep things simple. Pencil and paper is a good way to start. We can polish them up if we have a client that we can review with, but black and white is great. Images? A rectangle with an X. A video? A rectangle with a triangle inside.
+
+We have to ask ourselves the important questions. What should the user see when he comes into a page? What actions should he be encouraged to do? These questions are a great segue to wireframing. We need to understand what should be on every page.
+
