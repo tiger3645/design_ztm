@@ -105,3 +105,34 @@ A key to the designing process is to have constant source of online inspiration.
    Paid, but really good for components.
 5. Awwwards (awwwards.com)
    Award-winning websites.
+
+## User Flows
+
+A user flow is the series of steps a user takes to achieve a meaningful goal. They help us design a product by asking three important questions:
+
+1. What is the goal of this thing?
+2. Who is doing it?
+3. How do they do it?
+
+### Steps
+
+1. What is the purpose of our user flow?
+   We need to name our flow and that name describes its purpose. That is the goal the user achieves by completing the steps.
+2. User flows go in one direction
+   User flows work best if we keep them simple by just going in one direction.
+3. Represent a complete task
+   The scope of a user flow should only be restricted to a simple task that gets to a single goal.
+
+### Do's and Don'ts
+
+Don't be vague! By not communicating effectively, we harm the design process of our product.
+
+Do use descriptive names! We can split goals based off of what they are trying to do. Split them if necessary!
+
+Don´t create flow maps to represent a user flow! A long, branching flow is a bad idea as it's overwhelming and distracting.
+
+Do create more user flows! Breaking long user flows down into more simple flows is worth being repetitive in favor of effectively showing what they do.
+
+Don´t miss details! Explain the details the user needs to take to complete a task and the actions.
+
+Do add the right amount of detail! Everyone should be able to read and understand what the flow does. Outline each step and flow.
